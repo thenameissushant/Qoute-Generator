@@ -1,2 +1,5 @@
-# Qoute-Generator
-This is a Random Qoute Generator App built by using html, css and javaScript.
+# Quote-Generator
+This is a Random Quote Generator App built using HTML, CSS, and JavaScript.
+
+API USED
+https://api.quotable.io/random
